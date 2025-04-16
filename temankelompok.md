@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Friends
+title: teman kelompok
 ---
-# Friends Page
+# teman kelompok Page
 Berikut teman-teman sekelompok saya:
 - [Safira Naila] (https://safiranaila.github.io/)
 - [saidil mustafa] (https://bojesmoestave.github.io/bojesmoestave-github.io/)
